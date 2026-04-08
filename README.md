@@ -20,14 +20,13 @@ The core of the project is a CNN model designed using TensorFlow and Keras, whic
 
 #output:
 
-<img width="1281" height="737" alt="Image" src="https://github.com/user-attachments/assets/f2fae413-0a02-4acc-ae82-4f8db8809943" />
+<img width="1121" height="449" alt="Image" src="https://github.com/user-attachments/assets/751a45e5-8ef8-4929-b910-4908cf00b33b" />
 
-<img width="1281" height="737" alt="Image" src="https://github.com/user-attachments/assets/00a2c8dc-29e0-457d-903c-39793a0b6944" />
+<img width="1281" height="737" alt="Image" src="https://github.com/user-attachments/assets/6fb08e6c-3db3-40c9-a954-b3505b5878dc" />
 
-<img width="963" height="532" alt="Image" src="https://github.com/user-attachments/assets/c07ce54a-5840-4483-8029-8e50a960d6a6" />
+<img width="963" height="532" alt="Image" src="https://github.com/user-attachments/assets/2e519f9c-2a95-4c21-911f-87492324aa8d" />
 
-<img width="1005" height="549" alt="Image" src="https://github.com/user-attachments/assets/e32f9b91-379b-4bbd-9486-eae8e5754f7e" />
-
+<img width="1005" height="549" alt="Image" src="https://github.com/user-attachments/assets/11a23efd-92b7-458a-a93a-197d1d757906" />
 
 
 
